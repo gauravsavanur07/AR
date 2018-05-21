@@ -1,8 +1,3 @@
-﻿//-----------------------------------------------------------------------
-// <copyright file="MapMatchingResponse.cs" company="Mapbox">
-//     Copyright (c) 2016 Mapbox. All rights reserved.
-// </copyright>
-//-----------------------------------------------------------------------
 
 namespace Mapbox.MapMatching
 {
