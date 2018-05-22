@@ -1,7 +1,6 @@
 ﻿//-----------------------------------------------------------------------
-// <copyright file="Feature.cs" company="Mapbox">
-//     Copyright (c) 2016 Mapbox. All rights reserved.
-// </copyright>
+// company="Open Source">
+//   
 //-----------------------------------------------------------------------
 
 namespace Mapbox.Geocoding {
